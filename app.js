@@ -36,6 +36,9 @@ var device = awsIot.device({
     host:'a1s6u9kqjd43mc.iot.us-west-2.amazonaws.com'
 });
 
+function decode(URL){
+    var uri_dec = decodeURIComponent(URL);
+}
 
 function getURL() {
     var s3 = new AWS.S3();
