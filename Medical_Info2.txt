@@ -1,0 +1,6 @@
+this is a file to test our SOS IoT app
+Name :xxx
+Blood Type:xxx
+Medical History: dfsdfafa
+dfafdfds
+fasfdsagds
