@@ -23,8 +23,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="35" column="53" lean-forward="true" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+            <state relative-caret-position="163">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,6 +49,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <push-targets>
       <push-target-info target-remote="origin" target-branch="NewURLFunc" repo="$PROJECT_DIR$" source="master" />
     </push-targets>
@@ -193,7 +198,7 @@
       <workItem from="1514356319817" duration="1000" />
       <workItem from="1514357621946" duration="136000" />
       <workItem from="1514357777432" duration="2000" />
-      <workItem from="1515618447416" duration="536000" />
+      <workItem from="1515618447416" duration="915000" />
     </task>
     <task id="LOCAL-00001" summary="add new function">
       <created>1515618614112</created>
@@ -202,11 +207,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515618614113</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add new function">
+      <created>1515619008772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515619008772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21609000" />
+    <option name="totallyTimeSpent" value="21988000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -218,7 +230,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2145871" sideWeight="0.4938918" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.48360655" order="6" side_tool="false" content_ui="tabs" />
@@ -618,8 +629,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="35" column="53" lean-forward="true" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+        <state relative-caret-position="163">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
