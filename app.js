@@ -40,6 +40,10 @@ function decode(URL){
     var uri_dec = decodeURIComponent(URL);
 }
 
+function encode(URL){
+    var uri_en = encodeURIComponent(URL);
+}
+
 
 function getURL() {
     var s3 = new AWS.S3();
